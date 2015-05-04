@@ -1,0 +1,7 @@
+_int_VolumeIsoValue 100
+_string_Test aBcD123
+_bool_IsRight true
+_bool_IsClear false
+_double_ThresholdTest 1.23456789
+_double3_PostionTest 1.1, 5.2, 1.23
+_double4_MeshColor 0.0, 1.0, 0.0, 0.8

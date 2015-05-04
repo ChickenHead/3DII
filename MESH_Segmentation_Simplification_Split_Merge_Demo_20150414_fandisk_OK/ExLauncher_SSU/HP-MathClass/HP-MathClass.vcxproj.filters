@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="addition.cpp" />
+    <ClCompile Include="box.cpp" />
+    <ClCompile Include="complex.cpp" />
+    <ClCompile Include="cross_product.cpp" />
+    <ClCompile Include="dot_product.cpp" />
+    <ClCompile Include="interval.cpp" />
+    <ClCompile Include="matrix.cpp" />
+    <ClCompile Include="matrixN.cpp" />
+    <ClCompile Include="matrix_mul.cpp" />
+    <ClCompile Include="optimize1.cpp" />
+    <ClCompile Include="optimize2.cpp" />
+    <ClCompile Include="pcg.cpp" />
+    <ClCompile Include="position.cpp" />
+    <ClCompile Include="quater.cpp" />
+    <ClCompile Include="scalar_div.cpp" />
+    <ClCompile Include="scalar_mul.cpp" />
+    <ClCompile Include="smatrixN.cpp" />
+    <ClCompile Include="subtraction.cpp" />
+    <ClCompile Include="transf.cpp" />
+    <ClCompile Include="transq.cpp" />
+    <ClCompile Include="unit_vector.cpp" />
+    <ClCompile Include="vector.cpp" />
+    <ClCompile Include="vectorN.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="box.h" />
+    <ClInclude Include="complex.h" />
+    <ClInclude Include="interval.h" />
+    <ClInclude Include="mathclass.h" />
+    <ClInclude Include="math_macro.h" />
+    <ClInclude Include="matrix.h" />
+    <ClInclude Include="matrixN.h" />
+    <ClInclude Include="optimize.h" />
+    <ClInclude Include="position.h" />
+    <ClInclude Include="quater.h" />
+    <ClInclude Include="smatrixN.h" />
+    <ClInclude Include="transf.h" />
+    <ClInclude Include="transq.h" />
+    <ClInclude Include="unit_vector.h" />
+    <ClInclude Include="vector.h" />
+    <ClInclude Include="vectorN.h" />
+  </ItemGroup>
+</Project>

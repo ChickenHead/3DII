@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="ExLauncher_SSU.cpp" />
+    <ClCompile Include="SSU\PolyhedronUtils.cpp">
+      <Filter>SSU</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="SSU">
+      <UniqueIdentifier>{9acdb9dc-f28f-4fba-a11d-0c9d6171b478}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ExLauncher_SSU.h" />
+    <ClInclude Include="SSU\PolyhedronUtils.h">
+      <Filter>SSU</Filter>
+    </ClInclude>
+    <ClInclude Include="SSU\SVXPrimitveBuilder.h">
+      <Filter>SSU</Filter>
+    </ClInclude>
+    <ClInclude Include="SSU\cglab_facet.h">
+      <Filter>SSU</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
